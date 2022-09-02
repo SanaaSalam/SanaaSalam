@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanaaSalam
-- 👀 I’m interested in programmimh
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning computer application with dual specialization in cloud technology and information security management.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new new interesting projects..
 - 📫 How to reach me?....through my LinkedIn https://www.linkedin.com/in/sanaa-salam
 
 <!---
